@@ -2,7 +2,7 @@
 Trabalho de Desenvolvimento de Sistemas
 
 ## Integrantes 
-### Arthur Ozório
-### Julia Prado
-### Melissa Martins
-### Victor Rossi
+#### Arthur Ozório
+#### Julia Prado
+#### Melissa Martins
+#### Victor Rossi
